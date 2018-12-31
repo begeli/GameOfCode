@@ -12,7 +12,6 @@ module movementMemory(
     logic [3:0] movement;
     assign nmovement = { nrotationDuration[1], nrotationDuration[0], ndirection[1], ndirection[0]};
     DFF numberHolder( nmovement, Start, 1'b0, movement);
-    //assign movement = Start ? nmovement : movement;
     assign rotationDuration = { movement[3], movement[2]};
     assign direction =  { movement[1], movement[0]};
 endmodule
