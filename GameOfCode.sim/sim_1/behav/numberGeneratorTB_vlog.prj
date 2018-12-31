@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  "../../../cs223 lab project 16.12.2017.srcs/sources_1/new/DFF0.sv"
+sv xil_defaultlib  "../../../cs223 lab project 16.12.2017.srcs/sources_1/new/DFF1.sv"
+sv xil_defaultlib  "../../../cs223 lab project 16.12.2017.srcs/sources_1/new/numberGenerator.sv"
+sv xil_defaultlib  "../../../cs223 lab project 16.12.2017.srcs/sim_1/new/numberGeneratorTB.sv"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

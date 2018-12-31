@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Product Version: Vivado v2015.2 (64-bit)              -->
+<!--                                                         -->
+<!-- Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.   -->
+
+<Project Version="7" Minor="5" Path="F:/other/GameOfCode/GameOfCode/GameOfCode.xpr">
+  <DefaultLaunch Dir="$PRUNDIR"/>
+  <Configuration>
+    <Option Name="Id" Val="e17d7b79c52d4bb7bb3378e5ccc88eae"/>
+    <Option Name="Part" Val="xc7a35tcpg236-1"/>
+    <Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
+    <Option Name="BoardPart" Val=""/>
+    <Option Name="ActiveSimSet" Val="sim_1"/>
+    <Option Name="DefaultLib" Val="xil_defaultlib"/>
+    <Option Name="IPRepoPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.cache/ip"/>
+    <Option Name="IPOutputRepo" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.cache/ip"/>
+    <Option Name="IPCachePermission" Val="read"/>
+    <Option Name="IPCachePermission" Val="write"/>
+    <Option Name="EnableCoreContainer" Val="FALSE"/>
+    <Option Name="EnableCoreContainerForIPI" Val="FALSE"/>
+  </Configuration>
+  <FileSets Version="1" Minor="31">
+    <FileSet Name="sources_1" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+      <Filter Type="Srcs"/>
+      <File Path="$PSRCDIR/sources_1/new/T2to1mux.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/T2to1mux.sv"/>
+          <Attr Name="ImportTime" Val="1513423520"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/DFF.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/DFF.sv"/>
+          <Attr Name="ImportTime" Val="1513423490"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/DFF0.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/DFF0.sv"/>
+          <Attr Name="ImportTime" Val="1513423382"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/DFF1.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/DFF1.sv"/>
+          <Attr Name="ImportTime" Val="1513423352"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/F4bitadder.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/F4bitadder.sv"/>
+          <Attr Name="ImportTime" Val="1513423636"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/F4to1mux.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/F4to1mux.sv"/>
+          <Attr Name="ImportTime" Val="1513791912"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/equalityComparator.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/equalityComparator.sv"/>
+          <Attr Name="ImportTime" Val="1513423598"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/mapping.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/mapping.sv"/>
+          <Attr Name="ImportTime" Val="1513423450"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/stepmotor.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/stepmotor.sv"/>
+          <Attr Name="ImportTime" Val="1513423292"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/ClockDivider.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/ClockDivider.sv"/>
+          <Attr Name="ImportTime" Val="1513433696"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/SevSeg_4digit.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/SevSeg_4digit.sv"/>
+          <Attr Name="ImportTime" Val="1513423192"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/decisionComparison.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/decisionComparison.sv"/>
+          <Attr Name="ImportTime" Val="1513792932"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/keypad4X4.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/keypad4X4.sv"/>
+          <Attr Name="ImportTime" Val="1513423152"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/movementMemory.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/movementMemory.sv"/>
+          <Attr Name="ImportTime" Val="1513791852"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/numberGenerator.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/numberGenerator.sv"/>
+          <Attr Name="ImportTime" Val="1513791916"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/steppermotor_wrapper.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/steppermotor_wrapper.sv"/>
+          <Attr Name="ImportTime" Val="1513423250"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/gameOfCode.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sources_1/new/gameOfCode.sv"/>
+          <Attr Name="ImportTime" Val="1513791850"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <Config>
+        <Option Name="DesignMode" Val="RTL"/>
+        <Option Name="TopModule" Val="gameOfCode"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="constrs_1" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+      <Filter Type="Constrs"/>
+      <File Path="$PSRCDIR/constrs_1/new/gameOfCode.xdc">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/constrs_1/new/gameOfCode.xdc"/>
+          <Attr Name="ImportTime" Val="1513426876"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+        </FileInfo>
+      </File>
+      <Config>
+        <Option Name="ConstrsType" Val="XDC"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="sim_1" Type="SimulationSrcs" RelSrcDir="$PSRCDIR/sim_1">
+      <Filter Type="Srcs"/>
+      <File Path="$PSRCDIR/sim_1/new/numberGeneratorTB.sv">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../cs223 lab project final/cs223 lab project 16.12.2017.srcs/sim_1/new/numberGeneratorTB.sv"/>
+          <Attr Name="ImportTime" Val="1513791164"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <Config>
+        <Option Name="DesignMode" Val="RTL"/>
+        <Option Name="TopModule" Val="numberGeneratorTB"/>
+        <Option Name="TopLib" Val="xil_defaultlib"/>
+        <Option Name="SrcSet" Val="sources_1"/>
+      </Config>
+    </FileSet>
+  </FileSets>
+  <Simulators>
+    <Simulator Name="XSim">
+      <Option Name="Description" Val="Vivado Simulator"/>
+      <Option Name="CompiledLib" Val="0"/>
+    </Simulator>
+    <Simulator Name="ModelSim">
+      <Option Name="Description" Val="ModelSim Simulator"/>
+    </Simulator>
+    <Simulator Name="Questa">
+      <Option Name="Description" Val="Questa Advanced Simulator"/>
+    </Simulator>
+    <Simulator Name="IES">
+      <Option Name="Description" Val="Incisive Enterprise Simulator (IES)"/>
+    </Simulator>
+    <Simulator Name="VCS">
+      <Option Name="Description" Val="Verilog Compiler Simulator (VCS)"/>
+    </Simulator>
+    <Simulator Name="Riviera">
+      <Option Name="Description" Val="Riviera-PRO Simulator"/>
+    </Simulator>
+    <Simulator Name="ActiveHDL">
+      <Option Name="Description" Val="Active-HDL Simulator"/>
+    </Simulator>
+  </Simulators>
+  <Runs Version="1" Minor="9">
+    <Run Id="synth_1" Type="Ft3:Synth" SrcSet="sources_1" Part="xc7a35tcpg236-1" ConstrsSet="constrs_1" Description="Vivado Synthesis Defaults" State="current">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2015">
+          <Desc>Vivado Synthesis Defaults</Desc>
+        </StratHandle>
+        <Step Id="synth_design"/>
+      </Strategy>
+    </Run>
+    <Run Id="impl_1" Type="Ft2:EntireDesign" Part="xc7a35tcpg236-1" ConstrsSet="constrs_1" Description="Vivado Implementation Defaults" State="current" SynthRun="synth_1">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2015">
+          <Desc>Vivado Implementation Defaults</Desc>
+        </StratHandle>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+    </Run>
+  </Runs>
+</Project>

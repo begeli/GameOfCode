@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Berke/Desktop/cs223_lab02_test/cs223 lab project 16.12.2017/cs223 lab project 16.12.2017.srcs/sources_1/new/DFF0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFF0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Berke/Desktop/cs223_lab02_test/cs223 lab project 16.12.2017/cs223 lab project 16.12.2017.srcs/sources_1/new/DFF1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFF1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Berke/Desktop/cs223_lab02_test/cs223 lab project 16.12.2017/cs223 lab project 16.12.2017.srcs/sources_1/new/numberGenerator.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module numberGenerator
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Berke/Desktop/cs223_lab02_test/cs223 lab project 16.12.2017/cs223 lab project 16.12.2017.srcs/sim_1/new/numberGeneratorTB.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module numberGeneratorTB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Berke/Desktop/cs223_lab02_test/cs223 lab project 16.12.2017/cs223 lab project 16.12.2017.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
