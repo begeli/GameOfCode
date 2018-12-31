@@ -21,6 +21,5 @@ module decisionComparison(
     F4bitadder subtractor( 1'b0, oldValue, 4'b1111, coutS, subtractorOut);
     equalityComparator ec3( subtractorOut, 4'b1000, is8);
     F4to1mux m42( is8, subtractorOut[3], subtractorOut, 4'b0000, 4'b1000, 4'b1000, decrementedValue);
-    
-//T2to1mux mux21( subtractorOut[3], 4'b0000, subtractorOut, decrementedValue);
+
 endmodule
